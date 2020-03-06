@@ -1,0 +1,27 @@
+{
+  "name": "footer",
+  "version": "1.0.0",
+  "description": "static footer element for gym finder app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MVP-Gym-Finder/footer.git"
+  },
+  "author": "Christine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MVP-Gym-Finder/footer/issues"
+  },
+  "homepage": "https://github.com/MVP-Gym-Finder/footer#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "path": "^0.12.7"
+  }
+}
